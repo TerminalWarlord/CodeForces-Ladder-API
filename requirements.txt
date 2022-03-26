@@ -1,0 +1,6 @@
+fastapi
+requests
+bs4
+uvicorn
+cloudscraper
+gunicorn
