@@ -2,7 +2,7 @@
 # Encoding = 'utf-8'
 # Licensed under MIT License
 # https://github.com/TerminalWarlord/
-# Data: 26.03.2022 - 16:31(BST)
+# Date: 26.03.2022 - 16:31(BST)
 
 import requests
 import json
