@@ -1,4 +1,4 @@
-# Copyright © 2021 TerminalWarlord
+# Copyright © 2022 TerminalWarlord
 # Encoding = 'utf-8'
 # Licensed under MIT License
 # https://github.com/TerminalWarlord/
