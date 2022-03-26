@@ -23,9 +23,11 @@
 
 ### **1) CF-Ladder-API** :mag:
 Shows top 50 problems of a specific rating with user status
-##### Parameters:  
+##### Parameters:
+```
 rating : Rating of the problem.
 handle : User's handle to fetch status
+```
 ##### Method: GET  
 ```
 Example: https://tw-cfladder.vercel.app/1000/terminalwarlord
